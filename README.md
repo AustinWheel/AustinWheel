@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Austin Wheeler
+- 👀 I’m interested in data science, neuroscience, AI, and app development!
+- 🌱 I’m currently learning python and javascript
+- 💞️ I’m looking to collaborate on interesting projects
+- 📫 You can reach me by email at austinwheeler1112@gmail.com
