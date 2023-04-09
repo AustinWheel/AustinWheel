@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Austin Wheeler
+- 🙇🏻‍♂️ Hi, I’m Austin Wheeler! I am a hispanic, first generation college student passionate about Computer Science.
 - 👀 I’m interested in data science, neuroscience, AI, and app development!
-- 🌱 I’m currently learning python and javascript
+- 🕓 In my free time I do no-gi jiu jitsu and kickboxing. I love cooking and playing with my dog
+- 🧠 I’m currently learning javascript/react through projects. I am also dabbling in machine learning and neural networks.
 - 💞️ I’m looking to collaborate on interesting projects
-- 📫 You can reach me by email at austinwheeler1112@gmail.com
+- 📫 You can reach me by email at austinwheeler1112@gmail.com or checkout my website @ https://AustinWheel.github.io
